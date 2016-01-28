@@ -1,0 +1,10 @@
+pip_jsonifier/inputs/*
+pip_jsonifier/outputs/*
+
+.idea/
+*.log
+**.conf
+**/**.conf
+**.pyc
+**/**.DS_Store
+*.DS_Store
