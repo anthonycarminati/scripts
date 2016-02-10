@@ -1,10 +1,15 @@
 # Scripts
 
-This repo serves as a store for all scripts used by the Pandera Chicago team.
+This repo serves as a storage for useful scripts related to:
+
+- infrastructure management
+- data architecture
+- application delivery
+- and any other auxilary serivces
 
 ## Installation
 
-`git clone https://github.com/pandera-chicago/scripts.git`
+`git clone <clone link>` where `<clone link>` is replaced by the link provided by Github in the title bar of this screen
 
 ## Usage
 
